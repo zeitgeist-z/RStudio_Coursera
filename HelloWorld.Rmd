@@ -2,6 +2,12 @@
 title: "HelloWorld"
 author: "zeitgeist"
 date: "10/07/2020"
-output: pdf_document
+output:
+  html_document:
+    df_print: paged
 ---
+
+
+
+
 ## This is a Markdown File  
